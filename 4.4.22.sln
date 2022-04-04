@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.4.22", "4.4.22\4.4.22.csproj", "{71017D93-8F69-44B2-AE3D-1E69304A589A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.4.22", "4.4.22\4.4.22.csproj", "{71017D93-8F69-44B2-AE3D-1E69304A589A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yeniderstest", "Thread\Yeniderstest.csproj", "{725DD714-1361-4FF7-9A6B-29B88229C780}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{71017D93-8F69-44B2-AE3D-1E69304A589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71017D93-8F69-44B2-AE3D-1E69304A589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71017D93-8F69-44B2-AE3D-1E69304A589A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725DD714-1361-4FF7-9A6B-29B88229C780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725DD714-1361-4FF7-9A6B-29B88229C780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725DD714-1361-4FF7-9A6B-29B88229C780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725DD714-1361-4FF7-9A6B-29B88229C780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,6 +15,7 @@ namespace _4._4._22.Models
         {
             _id++;
             Id = _id;
+
            
         }
         public void ShowInfo()

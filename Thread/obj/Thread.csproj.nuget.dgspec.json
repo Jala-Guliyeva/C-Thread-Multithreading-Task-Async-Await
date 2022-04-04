@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\4.4.22\\4.4.22.csproj": {}
+    "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\Thread\\Thread.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\4.4.22\\4.4.22.csproj": {
+    "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\Thread\\Thread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\4.4.22\\4.4.22.csproj",
-        "projectName": "4.4.22",
-        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\4.4.22\\4.4.22.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\Thread\\Thread.csproj",
+        "projectName": "Thread",
+        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\Thread\\Thread.csproj",
         "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\4.4.22\\obj\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\C-Thread-Multithreading-Task-Async-Await\\Thread\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
